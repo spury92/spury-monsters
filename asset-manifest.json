@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/react-commerce/static/css/main.b1ba9fa6.chunk.css",
-    "main.js": "/react-commerce/static/js/main.b7f663b0.chunk.js",
-    "main.js.map": "/react-commerce/static/js/main.b7f663b0.chunk.js.map",
-    "runtime-main.js": "/react-commerce/static/js/runtime-main.f4bd0225.js",
-    "runtime-main.js.map": "/react-commerce/static/js/runtime-main.f4bd0225.js.map",
-    "static/js/2.673ce343.chunk.js": "/react-commerce/static/js/2.673ce343.chunk.js",
-    "static/js/2.673ce343.chunk.js.map": "/react-commerce/static/js/2.673ce343.chunk.js.map",
-    "index.html": "/react-commerce/index.html",
-    "precache-manifest.62ad3c636c877cb1e3b5160250062819.js": "/react-commerce/precache-manifest.62ad3c636c877cb1e3b5160250062819.js",
-    "service-worker.js": "/react-commerce/service-worker.js",
-    "static/css/main.b1ba9fa6.chunk.css.map": "/react-commerce/static/css/main.b1ba9fa6.chunk.css.map",
-    "static/js/2.673ce343.chunk.js.LICENSE": "/react-commerce/static/js/2.673ce343.chunk.js.LICENSE"
+    "main.css": "/spury-monsters/static/css/main.276edd12.chunk.css",
+    "main.js": "/spury-monsters/static/js/main.9a9b18b5.chunk.js",
+    "main.js.map": "/spury-monsters/static/js/main.9a9b18b5.chunk.js.map",
+    "runtime-main.js": "/spury-monsters/static/js/runtime-main.3f2e1c65.js",
+    "runtime-main.js.map": "/spury-monsters/static/js/runtime-main.3f2e1c65.js.map",
+    "static/js/2.d2810cb2.chunk.js": "/spury-monsters/static/js/2.d2810cb2.chunk.js",
+    "static/js/2.d2810cb2.chunk.js.map": "/spury-monsters/static/js/2.d2810cb2.chunk.js.map",
+    "index.html": "/spury-monsters/index.html",
+    "precache-manifest.a810306413078315d5c8ac1660855d44.js": "/spury-monsters/precache-manifest.a810306413078315d5c8ac1660855d44.js",
+    "service-worker.js": "/spury-monsters/service-worker.js",
+    "static/css/main.276edd12.chunk.css.map": "/spury-monsters/static/css/main.276edd12.chunk.css.map",
+    "static/js/2.d2810cb2.chunk.js.LICENSE": "/spury-monsters/static/js/2.d2810cb2.chunk.js.LICENSE"
   },
   "entrypoints": [
-    "static/js/runtime-main.f4bd0225.js",
-    "static/js/2.673ce343.chunk.js",
-    "static/css/main.b1ba9fa6.chunk.css",
-    "static/js/main.b7f663b0.chunk.js"
+    "static/js/runtime-main.3f2e1c65.js",
+    "static/js/2.d2810cb2.chunk.js",
+    "static/css/main.276edd12.chunk.css",
+    "static/js/main.9a9b18b5.chunk.js"
   ]
 }
