@@ -1,8 +1,8 @@
 {
-  "name": "react-commerce",
+  "name": "spury-monsters",
   "version": "0.1.0",
-  "private": true,
-  "homepage": "https://spury92.github.io/react-commerce",
+  "private": false,
+  "homepage": "https://spury92.github.io/spury-monsters",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
@@ -34,5 +34,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "main": "index.js",
+  "repository": "https://github.com/spury92/spury-monsters.git",
+  "author": "spury92 <bot1412@yandex.ru>",
+  "license": "MIT"
 }
